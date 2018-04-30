@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.conteiner-principal{
+
+	font-style: 'Open Sans'
+}
+
+.primeira-caixa{
+	display: flex;
+	flex-direction: column;
+}
+
+
+.titulo{
+	text-align: left;
+	margin-left: 5%;
+	
+}
+.sub-titulo{
+	margin-left: 5%;
+}
+
+.texto-descricao{
+	text-align: justify;
+	margin: 5%;
+
+}
+.texto-descricao2{
+	text-align: justify;
+	margin: 5%;
+}
+.segunda-caixa{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	
+}
+.gato-laranja{
+ max-width: 100vh;
+align-items: center;
+margin-left: 30%;
+
+
+	
+}
